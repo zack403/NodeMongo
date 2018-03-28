@@ -1,0 +1,24 @@
+{
+  "name": "nodemongo",
+  "version": "1.0.0",
+  "description": "Saving to mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zack403/NodeMongo.git"
+  },
+  "author": "Zack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zack403/NodeMongo/issues"
+  },
+  "homepage": "https://github.com/zack403/NodeMongo#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.11"
+  }
+}
